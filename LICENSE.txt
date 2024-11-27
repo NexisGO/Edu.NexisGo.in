@@ -1,3 +1,9 @@
 Copyright [2024] [NexisGo]
 
 All rights reserved.
+
+This repository and its contents, including all source code, documentation, images, and other materials, are protected by copyright law and may not be reproduced, distributed, or used in any way without the express written consent of the copyright holder.
+
+No part of this repository may be copied, modified, distributed, or publicly displayed for commercial or personal purposes without prior permission from the copyright holder. Unauthorized use of this material is prohibited by law.
+
+For any inquiries regarding the use or distribution of this repository, please contact [NexisGo].
